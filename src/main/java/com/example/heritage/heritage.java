@@ -25,7 +25,9 @@ public class heritage extends Application {
 
         Aluno a1 = new Aluno("Marcos", "456.789.123-00", 26, "787543");
         a1.estudar();
-
         a1.escreverDados();
+
+
+
     }
 }
