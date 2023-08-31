@@ -27,7 +27,9 @@ public class heritage extends Application {
         a1.estudar();
         a1.escreverDados();
 
-
+    Professor pr1 = new Professor("Phelps", "234.643.123-76", 45, 56000f);
+    pr1.escreverDados();
+    pr1.ensinar();
 
     }
 }

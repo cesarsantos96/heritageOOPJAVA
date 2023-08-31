@@ -15,7 +15,7 @@ public class Pessoa {
             System.out.println("Nome: "+ this.nome);
             System.out.println("CPF: "+ this.cpf);
             System.out.println("Idade: "+ this.idade);
-            System.out.println("--------- ------- --------");
+            System.out.println("--------- ------- ----------");
 
     }
 
