@@ -9,7 +9,7 @@ public float salario;
     }
 
     public  void ensinar(){
-        System.out.println("------");
+        System.out.println("-------");
         System.out.println(this.nome + " está ensinando essa matéria");
     }
 
