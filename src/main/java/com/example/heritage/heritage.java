@@ -20,7 +20,7 @@ public class heritage extends Application {
     public static void main(String[] args) {
         Pessoa p1 = new Pessoa("Cesar", "123.456.789-10", 27);
         p1.escreverDados();
-        Pessoa p2 = new Pessoa("Mariazinha", "098.765.432-21", 59);
+        Pessoa p2 = new Pessoa("Carla", "098.765.432-21", 59);
         p2.escreverDados();
 
         Aluno a1 = new Aluno("Marcos", "456.789.123-00", 26, "787543");

@@ -9,9 +9,9 @@ public class Aluno extends Pessoa {
     }
 
     public void estudar(){
-        System.out.println("--------------");
+        System.out.println("----------------");
         System.out.println(this.nome + " está estudando essa matéria");
-        System.out.println("---------------");
+        System.out.println("----------------");
     }
 
 }
